@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Criando diretórios..."
+echo "Creating directories..."
 
 mkdir /publico
 mkdir /adm
